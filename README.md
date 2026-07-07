@@ -4,7 +4,7 @@ An end-to-end data analysis project examining **12,037 unique restaurants** acro
 
 **Live Tableau dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/Analyzing_Zomato_Restaurants_Bengaluru/Where_to_eat?publish=yes)
 
-**📊 Dataset source:** [Zomato Bangalore Restaurants — Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+**Dataset source:** [Zomato Bangalore Restaurants — Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ---
 
