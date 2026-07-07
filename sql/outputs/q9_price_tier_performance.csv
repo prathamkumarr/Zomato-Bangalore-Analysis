@@ -1,0 +1,4 @@
+"price_category","total_restaurants","market_share_pct","avg_rating","rating_jump_vs_prev","avg_cost","cost_jump_vs_prev","avg_votes","votes_jump_vs_prev","quality_score_pct","excellent_pct","poor_pct","online_order_pct","book_table_pct","unrated_pct","value_score","price_jump_verdict"
+"Budget","7114","59.1","3.55",NULL,"281",NULL,"58",NULL,"60.4","5.2","3.4","48.9","0.2","32.0","1.267","Baseline tier"
+"Mid-range","3708","30.8","3.62","0.07","594","313","223","165","69.0","13.5","8.0","65.0","6.5","14.8","0.610","Not justified — minimal quality gain"
+"Premium","1215","10.1","3.99","0.37","1401","807","846","623","88.8","49.1","3.1","38.5","56.5","4.9","0.285","Justified — large quality gain"

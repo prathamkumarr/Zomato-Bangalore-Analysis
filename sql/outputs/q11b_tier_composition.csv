@@ -1,0 +1,7 @@
+"service_type","price_category","restaurant_count","pct_within_service","avg_rating","avg_cost","avg_votes"
+"Online Ordering","Budget","3482","54.8","3.59","294","85"
+"Online Ordering","Mid-range","2409","37.9","3.67","595","275"
+"Online Ordering","Premium","468","7.4","4.03","1206","970"
+"Dine-in Only","Budget","3632","64.0","3.49","267","32"
+"Dine-in Only","Mid-range","1299","22.9","3.51","591","127"
+"Dine-in Only","Premium","747","13.2","3.97","1524","769"
