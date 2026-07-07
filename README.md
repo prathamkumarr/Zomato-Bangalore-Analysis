@@ -154,17 +154,17 @@ Three interactive dashboards published to Tableau Public. *(Screenshots are stor
 ### 1. Executive Overview
 KPI cards and top-level distributions — the at-a-glance state of the Bengaluru market.
 
-![Executive Overview](tableau/dashboards/executive_overview.png)
+![Executive Overview](tableau/dashboards/Executive_Overview.png)
 
 ### 2. Deep Dive Analysis
 Comparative analytics — cuisine performance scatter (popularity vs. quality), price tier by location heatmap, and cuisine quality by location.
 
-![Deep Dive Analysis](tableau/dashboards/deep_dive_analysis.png)
+![Deep Dive Analysis](tableau/dashboards/Deep_dive_analysis.png)
 
 ### 3. Where to Eat (Restaurant Discovery)
 A recommendation-focused dashboard: credibility leaderboard, hidden gems, and a geographic restaurant map with per-location rating and cost.
 
-![Where to Eat](tableau/dashboards/where_to_eat.png)
+![Where to Eat](tableau/dashboards/Where_to_eat.png)
 
 > **Note on mapping:** Bengaluru's hyperlocal area names (HSR, Basavanagudi, etc.) aren't in Tableau's built-in geocoder, so a custom `location_coords.csv` was joined in to plot accurate coordinates.
 
